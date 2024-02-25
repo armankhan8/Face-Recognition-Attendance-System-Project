@@ -1,1 +1,3 @@
-I developed a cutting-edge face recognition attendance system as a part of my project portfolio. <br/> The system utilizes advanced facial detection algorithms to accurately identify individuals and record attendance. <br/> Leveraging Firebase integration, attendance records are seamlessly updated in real-time, ensuring efficient and reliable tracking
+# Project Face-Recognition-Attendance-System
+
+"I developed a face recognition attendance system using key libraries such as cvzone, cv2, and numpy to ensure accurate facial recognition capabilities. <br/> Leveraging Firebase Admin integration, the system efficiently manages and synchronizes attendance data, enhancing its reliability and effectiveness in real-world applications."
