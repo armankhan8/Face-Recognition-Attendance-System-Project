@@ -1,0 +1,1 @@
+I developed a cutting-edge face recognition attendance system as a part of my project portfolio. <br/> The system utilizes advanced facial detection algorithms to accurately identify individuals and record attendance. <br/> Leveraging Firebase integration, attendance records are seamlessly updated in real-time, ensuring efficient and reliable tracking
