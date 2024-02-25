@@ -1,0 +1,2 @@
+/home/arman810/ArmanData/FaceRecognition_AttendanceSystem/build/CMakeFiles/edit_cache.dir
+/home/arman810/ArmanData/FaceRecognition_AttendanceSystem/build/CMakeFiles/rebuild_cache.dir
